@@ -1,7 +1,8 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: clash for android
+subtitle: Clash for Android节点订阅设置教程 |Clash Meta内核配置全解析
+keyword: Clash for Android教程,安卓Clash订阅,Meta核心配置,Clash安卓安装,免费节点导入
 ---
 
 My name is Inigo Montoya. I have the following qualities:
