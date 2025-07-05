@@ -20,7 +20,9 @@ author: Some Person
 ###############################################
 
 navbar-links:
-  Clash For Android: "/clashforandroid"
+  Clash For Android(安卓/苹果): "/clashforandroid"
+  Clash(Windows/Mac): "/clashpc"
+  教程文章: "/post"
 ################
 # --- Logo --- #
 ################
