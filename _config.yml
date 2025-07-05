@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: My website
+title: ClashforAndroid/Windows 节点订阅指南|Clash Meta免费订阅地址节点购买
 
 # Your name to show in the footer
 author: Some Person
@@ -23,8 +23,8 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Learn markdown: "https://clashjd.github.io/"
+  Author's home: "https://clashjd.github.io/"
 
 ################
 # --- Logo --- #
@@ -102,7 +102,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "clashjd.github.io"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
@@ -128,7 +128,7 @@ edit_page_button: true
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+#keywords: "clashforandroid节点,clash for windows,clash meta免费订阅地址,clash节点订阅购买,clash配置教程,clash节点推荐,meta版clash节点,clash订阅链接获取,安卓clash节点分享"
 
 ######################################
 # --- Colours / background image --- #
