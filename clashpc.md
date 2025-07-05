@@ -3,7 +3,7 @@ layout: default
 title: Clash下载安装配置全指南 | Windows & macOS & Verge | 免费节点分享
 description: 免费获取最新Clash for Windows、macOS Clash及Clash Verge下载安装指南。提供详细的Clash Verge配置教程、免费节点分享及代理服务器设置方法。快速、安全、稳定，让您轻松畅享网络自由！
 keywords: "Clash for Windows最新版下载,macOS Clash安装指南,Clash Verge配置教程,Clash免费节点分享,Clash代理服务器设置,Clash配置,Clash教程,Clash免费节点,Clash代理设置"
-permalink: /clashforandroid/
+permalink: /clashpc/
 ---
 
 <div class="container">
