@@ -2,7 +2,7 @@
 layout: page
 title: clash for android
 subtitle: Clash for Android节点订阅设置教程 |Clash Meta内核配置全解析
-keyword: Clash for Android教程,安卓Clash订阅,Meta核心配置,Clash安卓安装,免费节点导入,shadowrocke,v2rayn下载,clash apk
+keyword: "Clash for Android教程,安卓Clash订阅,Meta核心配置,Clash安卓安装,免费节点导入,shadowrocke,v2rayn下载,clash apk"
 description: 安卓用户专属Clash订阅设置教程，支持Meta内核，一键导入节点与规则配置，图文详细说明。提供最新Clash Meta免费订阅地址，并推荐稳定高速的节点购买服务，提供 Clash for Android、小火箭（Shadowrocket）、v2rayN 等科学上网工具下载链接，适合安卓、iOS、Windows 多平台使用。支持一键导入订阅，适配主流平台。无论你是新手还是老用户，都能在本站找到高性价比的Clash节点资源！
 ---
 
