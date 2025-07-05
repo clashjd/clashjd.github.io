@@ -1,0 +1,25 @@
+.download-card {
+  background: rgba(255, 255, 255, 0.05);
+  border-radius: 12px;
+  padding: 1.2rem 1rem;
+  margin-bottom: 1.5rem;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.download-card h3 {
+  margin-top: 0;
+  color: #0af;
+}
+
+.download-card a {
+  color: #0af;
+  text-decoration: none;
+}
+
+.download-card a:hover {
+  text-decoration: underline;
+}
+
+.download-card ul {
+  padding-left: 1.2em;
+}
