@@ -2,8 +2,8 @@
 layout: post
 title: "Clash 全平台下载安装与使用指南（Windows / macOS / Linux / 手机）"
 date: 2025-07-09
-categories: [clash, proxy, 教程]
-tags: [Clash, 下载, 使用, 排错]
+keywords: "Clash节点购买, 小火箭节点, V2Ray节点, 星空云, 超低价节点, 免费试用"
+description: "星空云提供超低价Clash、小火箭、V2Ray多协议节点服务——0.5元/月入门套餐、6元/月畅玩套餐及1天免费试用，全球多机房，支持一键订阅与跨平台使用。"
 ---
 
 ## 🚀 目录
@@ -34,19 +34,19 @@ Clash 是一个功能强大的跨平台代理工具，支持规则过滤、分�
   - 82 MB：`Clash.for.Windows.Setup.0.20.39.arm64.exe`（ARM64 Installer）
 
 - **简易绿色版：ClashN（支持 Mihomo 核心）**  
-  下载 `clashN.zip`，解压后运行 `.exe` 即可 :contentReference[oaicite:2]{index=2}。
+  下载 `clashN.zip`，解压后运行 `.exe` 即可 :
 
 ### macOS
 - **ClashX**（经典 GUI）  
-  最新版本 1.118.0，可下载 `.dmg` 安装包 :contentReference[oaicite:3]{index=3}。
+  最新版本 1.118.0，可下载 `.dmg` 安装包 :
 - **Tauri 前端**：推荐 “Clash Verge Rev” 或 “Clash Nyanpasu”  
-  支持 macOS 10.15+，界面美观，功能完善 :contentReference[oaicite:4]{index=4}。
+  支持 macOS 10.15+，界面美观，功能完善 :
 
 ### Linux
 - **FlClash**（Flutter+Clash GUI）  
-  提供 `.deb`, `.tar.gz`, `.rpm` 格式安装包，支持 x64/ARM 架构 :contentReference[oaicite:5]{index=5}。
+  提供 `.deb`, `.tar.gz`, `.rpm` 格式安装包，支持 x64/ARM 架构 
 - **Clash Verge Rev** 与 **Nyanpasu**  
-  同样支持 Linux，多平台图形界面工具 :contentReference[oaicite:6]{index=6}。
+  同样支持 Linux，多平台图形界面工具 
 
 ### Android / iOS
 - Android 可通过 F-droid 或 GitHub 下载 FlClash 的 APK；iOS 可使用 Shadowrocket / Quantumult X 等支持 Clash 配置的客户端。
@@ -61,7 +61,7 @@ Clash 是一个功能强大的跨平台代理工具，支持规则过滤、分�
 3. **Linux FlClash**：  
    - `.deb` 安装：`sudo dpkg -i <file>.deb`  
    - `.tar.gz` 解压后执行：`./flclash`  
-   - 安装依赖（如桌面上下文菜单）：`sudo apt install libayatana-appindicator3‑dev libkeybinder‑3.0‑dev` :contentReference[oaicite:7]{index=7}。
+   - 安装依赖（如桌面上下文菜单）：`sudo apt install libayatana-appindicator3‑dev libkeybinder‑3.0‑dev` :
 
 ---
 
@@ -80,12 +80,12 @@ Clash 是一个功能强大的跨平台代理工具，支持规则过滤、分�
 
 | 问题 | 原因 | 解决方式 |
 |------|------|----------|
-| **APP 无法启动 / 报错** | macOS提示“已损坏” | 运行 `sudo xattr -r -d com.apple.quarantine /Applications/Clash\ Verge.app` :contentReference[oaicite:8]{index=8} |
+| **APP 无法启动 / 报错** | macOS提示“已损坏” | 运行 `sudo xattr -r -d com.apple.quarantine /Applications/Clash\ Verge.app` : |
 | **订阅无效 / 节点加载失败** | 链接格式错误或超时 | 检查订阅地址，重新导入；确认网络可联通 GitHub/Gitee |
 | **代理失效，网页直连** | 缓存问题或 DNS 泄漏 | 清除 DNS 缓存；启用TUN模式；设置 DNS 到 114.114.114.114 等 |
 | **核心版本不兼容** | GUI 与内核不匹配 | 升级 GUI 到最新版；或者手动指定 Core 路径 |
 | **Permission denied** | Linux 权限不足 | 使用 `chmod +x flclash` 并确保在图形界面中以用户身份运行 |
-| **依赖缺失** | Linux 缺少 indicator 或 libkeybinder | `sudo apt install libayatana-appindicator3-dev libkeybinder-3.0-dev` :contentReference[oaicite:9]{index=9} |
+| **依赖缺失** | Linux 缺少 indicator 或 libkeybinder | `sudo apt install libayatana-appindicator3-dev libkeybinder-3.0-dev` : |
 
 ---
 
