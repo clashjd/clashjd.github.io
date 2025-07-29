@@ -3,7 +3,7 @@ layout: post
 title: "机场节点怎么添加详细步骤与关键点"
 tags: ["付费机场节点", "sstap手机版", "ShellClash", "安卓clash局域网共享", "clash节点免费2025"]
 keywords: ["付费机场节点", "sstap手机版", "ShellClash", "安卓clash局域网共享", "clash节点免费2025"]
-description: '许多用户初次接触科学上网时,最常遇到的困惑便是"机场节点怎么添加到我的上网软件里？"这个问题看似基础,却是网络自由访问的关键第一步。简单来说,整个过程就是将你购买的机场服务提供的订阅链接或节点信息,导入到如Clash、小火箭（Shadowrocket）、V2RayN等客户端软件中,由软件进行连接和管理。'
+description: '许多用户初次接触科学上网时,最常遇到的困惑便是机场节点怎么添加到我的上网软件里？这个问题看似基础,却是网络自由访问的关键第一步。简单来说,整个过程就是将你购买的机场服务提供的订阅链接或节点信息,导入到如Clash、小火箭（Shadowrocket）、V2RayN等客户端软件中,由软件进行连接和管理。'
 ---
 
 ![Clash 推荐图](https://clashjd.github.io/assets/img/clash订阅节点购买.png)
