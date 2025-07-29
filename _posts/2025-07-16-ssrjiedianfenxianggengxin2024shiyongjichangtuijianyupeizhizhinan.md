@@ -1,10 +1,8 @@
 ---
 layout: post
 title: "SSR节点分享更新：2024实用机场推荐与配置指南"
-date: "2025-07-16 01:14:52"
-tags: [机场节点大全, Clash苹果IOS版安装包, clash配置节点购买及使用, clash试用, clash配置免费节点github, clash飞机, 免费网络节点加速器]
 keywords: "机场节点大全, Clash苹果IOS版安装包, clash配置节点购买及使用, clash试用, clash配置免费节点github, clash飞机, 免费网络节点加速器"
-description: "面对众多的机场推荐信息，用户常陷入选择困境。根据2024年实测经验，建议从四个维度评估："
+description: "面对众多的机场推荐信息，用户常陷入选择困境。根据2024年实测经验，建议从四个维度评估：线路质量：优先选择标注BGP国际多线或CN2 GIA的香港节点/日本节点,协议支持：同时提供SSR、V2Ray和Trojan协议的机场兼容性更强"
 ---
 
 ![Clash 推荐图](https://clashjd.github.io/assets/img/付费机场订阅.png)
