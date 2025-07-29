@@ -8,12 +8,7 @@ tags:
   - "clash更新"
   - "clash的url从哪里获取"
   - "clash怎么添加订阅链接"
-keywords:
-  - "Clash能查看浏览记录嘛"
-  - "2025重要时间节点"
-  - "clash更新"
-  - "clash的url从哪里获取"
-  - "clash怎么添加订阅链接"
+keywords: "Clash能查看浏览记录嘛,2025重要时间节点,clash更新,clash的url从哪里获取,clash怎么添加订阅链接"
 description: "近期市场上频繁出现的机场节点15元每月套餐引起许多用户关注。通过实测三款不同供应商的服务发现，本文章将带你深入了解性能表现与选购要点。"
 ---
 
