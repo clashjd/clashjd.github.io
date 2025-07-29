@@ -4,7 +4,7 @@ title: "机场节点怎么添加详细步骤与关键点"
 date: "2025-07-29 18:42:18"
 tags: ["免费机场分享clash","clash怎么导入配置文件","clash小猫官网正版续费","小蓝猫clash特点","clash怎么配置文件URL","vmess订阅链接转换","clash猫下载"]
 keywords: "免费机场分享clash,clash怎么导入配置文件,clash小猫官网正版续费,小蓝猫clash特点,clash怎么配置文件URL,vmess订阅链接转换,clash猫下载"
-description: "许多用户初次接触科学上网时,最常遇到的困惑便是"机场节点怎么添加到我的上网软件里？"这个问题看似基础,却是网络自由访问的关键第一步。简单来说,整个过程就是将你购买的机场服务提供的订阅链接或节点信息,导入到如Clash、小火箭（Shadowrocket）、V2RayN等客户端软件中,由软件进行连接和管理。"
+description: "许多用户初次接触科学上网时,最常遇到的困惑便是机场节点怎么添加到我的上网软件里？这个问题看似基础,却是网络自由访问的关键第一步。简单来说,整个过程就是将你购买的机场服务提供的订阅链接或节点信息,导入到如Clash、小火箭（Shadowrocket）、V2RayN等客户端软件中,由软件进行连接和管理。"
 ---
 ![Clash 推荐图](https://clashjd.github.io/assets/img/tiktok机场推荐.png)
 
