@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "机场节点怎么添加详细步骤与关键点"
-date: "2025-07-29 19:02:21"
+date: "2025-07-29 19:02:21 +0800"
 tags:
   - "订阅地址如何获取"
   - "tennisclash手游攻略"
@@ -12,6 +12,8 @@ tags:
 keywords: "订阅地址如何获取,tennisclash手游攻略,clash小蓝猫官网入口,V2ray安卓apk安装包,clash会员购买,clash节点hneko云购买"
 description: "许多用户初次接触科学上网时,最常遇到的困惑便是机场节点怎么添加到我的上网软件里？这个问题看似基础,却是网络自由访问的关键第一步。简单来说,整个过程就是将你购买的机场服务提供的订阅链接或节点信息,导入到如Clash、小火箭（Shadowrocket）、V2RayN等客户端软件中,由软件进行连接和管理。"
 ---
+
+
 ![Clash 推荐图](https://clashjd.github.io/assets/img/clash节点推荐.png)
 
 ## 机场节点怎么添加详细步骤与关键点
