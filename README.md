@@ -123,7 +123,7 @@ Clash 是一个功能强大的跨平台代理工具，支持规则过滤、分�
 - **节点数量**：3 个（多地区轮换）  
 - **带宽上限**：10Mbps  
 - **适合人群**：轻度浏览、简单加速  
-- **购买链接**：[立即抢购 0.5 元套餐](http://use.clashgomai.xyz/#/plans/0.5)  
+- **购买链接**：[立即抢购 0.5 元套餐](https://te.clashforandroid.xyz/)
 
 ### 六元/月 套餐
 - **价格**：￥6 / 月  
@@ -131,14 +131,14 @@ Clash 是一个功能强大的跨平台代理工具，支持规则过滤、分�
 - **节点数量**：5 个（香港、新加坡、美国、日本 …）  
 - **带宽上限**：50Mbps  
 - **适合人群**：视频/游戏加速、海外社交  
-- **购买链接**：[立即抢购 6 元套餐](http://use.clashgomai.xyz/#/plans/6)  
+- **购买链接**：[立即抢购 6 元套餐](https://te.clashforandroid.xyz/)  
 
 ### 免费试用
 - **时长**：1 天  
 - **流量**：1GB  
 - **节点**：随机分配  
 - **申请地址**：  
-  1. 访问 [星空云免费试用](http://use.clashgomai.xyz/#/free)  
+  1. 访问 [星空云免费试用](https://te.clashforandroid.xyz/)  
   2. 填写邮箱，获取试用订阅链接  
   3. 导入 Clash / Shadowrocket / V2Ray 客户端即可使用  
 
@@ -148,7 +148,7 @@ Clash 是一个功能强大的跨平台代理工具，支持规则过滤、分�
 > **星空云·优质极简**  
 > 专注超低价与高质量节点服务——支持 Clash、Shadowrocket、V2Ray 全协议，手动/自动订阅同步，一键切换节点。  
 
-- 🔗 官网地址：[http://use.clashgomai.xyz/](http://use.clashgomai.xyz/)  
+- 🔗 官网地址：[https://te.clashforandroid.xyz/](https://te.clashforandroid.xyz/)  
 - 💎 支持多协议：vmess、vless、trojan、ss、socks5  
 - 🌐 全球机房：香港 / 新加坡 / 美国 / 日本 / 德国 …  
 - ⚙️ 一键订阅：支持 Clash 配置 URL、Shadowrocket QRCode  
@@ -157,7 +157,7 @@ Clash 是一个功能强大的跨平台代理工具，支持规则过滤、分�
 ---
 
 ## 如何购买与支付
-1. 打开 [星空云官网](http://use.clashgomai.xyz/)。  
+1. 打开 [星空云官网](https://te.clashforandroid.xyz/)。  
 2. 点击顶部「购买套餐」，选择 **0.5 元** 或 **6 元** 月套餐，或点击「免费试用」。  
 3. 填写注册邮箱、设置登录密码。  
 4. 通过支付宝 / 微信 / PayPal 支付订单。  
