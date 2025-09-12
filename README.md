@@ -8,7 +8,7 @@ description: "星空云提供超低价Clash、小火箭、V2Ray多协议节点�
 
 ## 🚀 目录
 ##  如果被屏蔽，或者节点失效请根据这个来看最新的地址，然后重新导入
-##  机场最新地址：https://te.clashforandroid.xyz/
+##  机场最新地址：https://www.clashforandroid.xyz/
 1. [什么是 Clash？](#什么是-clash)
 2. [各平台下载入口](#各平台下载入口)
    - [Windows](#windows)
