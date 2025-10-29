@@ -48,17 +48,11 @@
     <meta name="keywords" content="{{ site.keywords | escape }}">
   {% endif %}
   {% if site.rss-description %}
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | absolute_url }}">000
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | absolute_url }}">
   {% endif %}
-  {% include gtag.html %}111
-  {% include gtm_head.html %}222
-  {% include google_analytics.html %}333
-  {% include cloudflare_analytics.html %}444
-  {% include mathjax.html %}555
-
-  {% if layout.common-ext-css %}666
-    {% for css in layout.common-ext-css %}777
-      {% include ext-css.html css=css %} 888
+  {% if layout.common-ext-css %}
+    {% for css in layout.common-ext-css %}
+      {% include ext-css.html css=css %} 
     {% endfor %}
   {% endif %}
 
